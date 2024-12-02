@@ -1,1 +1,1 @@
-# Mobile-Sales-Dashboard
+•	Developed an interactive end to end dashboard in Power BI to track key sales metrics like Total sales, Average price, MTD Sales, YTD Sales, Same Period Last Year Data. Visualisation of Sales data to view customer views on mobile brands and their market sales trend. 
